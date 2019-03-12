@@ -1,0 +1,7 @@
+<suite name="google-auth-selenium-automation">
+    <test name="google-auth-selenium-automation">
+        <classes>
+            <class name="com.googleauth.selenium.automation.TestGoogleAuthentication" />
+        </classes>
+    </test>
+</suite>
