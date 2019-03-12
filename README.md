@@ -2,7 +2,7 @@
 	
 Clone the repository on your system:
 
-git clone https://github.com/meghakuc/google-auth-selenium-automation.git
+	git clone https://github.com/meghakuc/google-auth-selenium-automation.git
 
 Install and configure maven in your system:
 
