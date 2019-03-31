@@ -26,6 +26,4 @@ Open command prompt. Go to the project folder where "pom.xml" file exist. Type f
 	
 Test script should run successfully.
 
-Here is the link for article: 
-
-	https://www.linkedin.com/pulse/handling-google-authentication-using-selenium-web-driver-kuchchal/
+Here is the link for article: https://www.linkedin.com/pulse/handling-google-authentication-using-selenium-web-driver-kuchchal/
